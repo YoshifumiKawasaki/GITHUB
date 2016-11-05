@@ -1,4 +1,4 @@
-# GITHUB
+# Github-howto
 
 ## ０．GithubにNew Repository作成
 
