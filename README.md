@@ -9,7 +9,7 @@
   `git commit -m "first commit" # -mでメッセージを追加`
   
 ## ２．Githubのリポジトリをリモートリポジトリとして登録
-  `git remote add original https://github.com/Username/Repository.git`
+  `git remote add origin https://github.com/Username/Repository.git`
 
 ## ３．ローカルからリモートにpush
   `git push origin master # push master to origin`
